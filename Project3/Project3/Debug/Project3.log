@@ -1,0 +1,10 @@
+﻿  Project3.cpp
+c:\users\aaron\desktop\south hills\4th term\c++\projects\project3\project3\project3.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\desktop\south hills\4th term\c++\projects\project3\project3\project3.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\desktop\south hills\4th term\c++\projects\project3\project3\project3.cpp(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\desktop\south hills\4th term\c++\projects\project3\project3\project3.cpp(92): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\desktop\south hills\4th term\c++\projects\project3\project3\project3.cpp(135): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\desktop\south hills\4th term\c++\projects\project3\project3\project3.cpp(151): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\aaron\desktop\south hills\4th term\c++\projects\project3\project3\project3.cpp(54): warning C4715: 'randomWord': not all control paths return a value
+  Project3.vcxproj -> C:\Users\Aaron\Desktop\South Hills\4th Term\C++\Projects\Project3\Debug\Project3.exe
+  Project3.vcxproj -> C:\Users\Aaron\Desktop\South Hills\4th Term\C++\Projects\Project3\Debug\Project3.pdb (Partial PDB)

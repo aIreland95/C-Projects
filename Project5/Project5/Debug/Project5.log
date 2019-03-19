@@ -1,0 +1,4 @@
+﻿  Project5.cpp
+c:\users\aaron\desktop\south hills\4th term\c++\projects\project5\project5\project5.cpp(133): warning C4715: 'Deck::Draw': not all control paths return a value
+  Project5.vcxproj -> C:\Users\Aaron\Desktop\South Hills\4th Term\C++\Projects\Project5\Debug\Project5.exe
+  Project5.vcxproj -> C:\Users\Aaron\Desktop\South Hills\4th Term\C++\Projects\Project5\Debug\Project5.pdb (Partial PDB)

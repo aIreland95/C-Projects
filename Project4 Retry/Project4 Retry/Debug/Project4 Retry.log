@@ -1,0 +1,6 @@
+﻿  Skipping... (no relevant changes detected)
+  stdafx.cpp
+  Project4Retry.cpp
+c:\users\aaron\desktop\south hills\4th term\c++\projects\project4 retry\project4 retry\project4retry.cpp(357): warning C4715: 'deletePlaylist': not all control paths return a value
+  Project4 Retry.vcxproj -> C:\Users\Aaron\Desktop\South Hills\4th Term\C++\Projects\Project4 Retry\Debug\Project4 Retry.exe
+  Project4 Retry.vcxproj -> C:\Users\Aaron\Desktop\South Hills\4th Term\C++\Projects\Project4 Retry\Debug\Project4 Retry.pdb (Partial PDB)
